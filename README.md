@@ -10,12 +10,12 @@
   >
   > Klee(可莉):[**猫知道_**](https://b23.tv/37VU1F5)
 
-- [MacOS的食用方法](https://cloud.stackblog.eu.org/cloudfile/其他文件/MacOS鼠标指针)
+- [MacOS的食用方法](https://stackblog.cf/posts/39349/)
 
   ```
-  https://cloud.stackblog.eu.org/cloudfile/其他文件/MacOS鼠标指针
+  https://stackblog.cf/posts/39349/
   ```
 
 如果觉得指针太小，可以打开【系统偏好设置】，点击【辅助功能】，找到【显示】，选择【指针】，然后就可以调节鼠标指针大小了。
 
-![调节鼠标指针大小](https://onericetwowine.coding.net/p/Onerice/d/Onerice/git/raw/master/Onerice/other/img/调节指针大小.png)
+![调节鼠标指针大小](https://imgs.stackblog.eu.org/imgs/resizemousecape_old_s.png)
